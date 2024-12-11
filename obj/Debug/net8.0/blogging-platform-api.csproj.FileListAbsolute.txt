@@ -275,3 +275,4 @@ C:\Users\dima2\blogging-platform-api\obj\Debug\net8.0\refint\blogging-platform-a
 C:\Users\dima2\blogging-platform-api\obj\Debug\net8.0\blogging-platform-api.pdb
 C:\Users\dima2\blogging-platform-api\obj\Debug\net8.0\blogging-platform-api.genruntimeconfig.cache
 C:\Users\dima2\blogging-platform-api\obj\Debug\net8.0\ref\blogging-platform-api.dll
+C:\Users\dima2\blogging-platform-api\obj\Debug\net8.0\blogging-platform-api.sourcelink.json

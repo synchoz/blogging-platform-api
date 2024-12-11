@@ -16,6 +16,7 @@ namespace BloggingApp.Data
 
         public DbSet<Blog> Blog { get; set; } = default!;
         public DbSet<BlogTag> BlogTag { get; set; }
+        public DbSet<Users> Users {get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
