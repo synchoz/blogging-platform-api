@@ -17,7 +17,7 @@ A RESTful API built with ASP.NET Core 8 to manage a blogging platform. It suppor
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/BloggingPlatformAPI.git
+   git clone https://github.com/synchoz/BloggingPlatformAPI.git
    cd BloggingPlatformAPI
    ```
 
