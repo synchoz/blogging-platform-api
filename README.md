@@ -3,6 +3,9 @@
 
 A RESTful API built with ASP.NET Core 8 to manage a blogging platform. It supports CRUD operations for blogs and their associated tags.
 
+## Inspiration
+This project was inspired by the [Backend Roadmap](https://roadmap.sh/projects/blogging-platform-api), which provides a comprehensive guide for building a blogging platform API.
+
 ## Features
 - Get all blogs with search functionality.
 - Get a single blog by ID.
